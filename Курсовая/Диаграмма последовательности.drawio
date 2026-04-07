@@ -1,198 +1,178 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 YaBrowser/26.3.0.0 Safari/537.36" version="29.6.6">
-  <diagram name="Page-1" id="bnqQRFvQWMvOHjXplOxa">
-    <mxGraphModel dx="1783" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="DLv1C-7Q1W6OOGphXAtt">
+    <mxGraphModel dx="2480" dy="1416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nEas14TvrjvnTph_sTE4-28" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="Клиент" vertex="1">
-          <mxGeometry height="1484" width="150" x="703" y="297.33333333333326" as="geometry" />
+        <mxCell id="U7UqpE9DLSidO46kA7eS-182" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=13;" value="КЛИЕНТ" vertex="1">
+          <mxGeometry height="1304" width="150" x="20" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-55" parent="nEas14TvrjvnTph_sTE4-28" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="1387.33" width="10" x="70" y="92.67" as="geometry" />
+        <mxCell id="U7UqpE9DLSidO46kA7eS-183" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=13;" value="ИС (Телеграм-бот)" vertex="1">
+          <mxGeometry height="1304" width="156" x="367" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-29" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="Менеджер" vertex="1">
-          <mxGeometry height="1484" width="150" x="1144" y="297.33333333333326" as="geometry" />
+        <mxCell id="U7UqpE9DLSidO46kA7eS-184" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=13;" value="МЕНЕДЖЕР" vertex="1">
+          <mxGeometry height="1304" width="150" x="740" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-58" parent="nEas14TvrjvnTph_sTE4-29" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="1377.33" width="10" x="70" y="102.67" as="geometry" />
+        <mxCell id="U7UqpE9DLSidO46kA7eS-185" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=13;" value="МЕХАНИК" vertex="1">
+          <mxGeometry height="1304" width="150" x="997" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-30" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="Механик" vertex="1">
-          <mxGeometry height="1484" width="150" x="1615" y="297.33333333333326" as="geometry" />
+        <mxCell id="U7UqpE9DLSidO46kA7eS-186" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=13;" value="СКЛАД" vertex="1">
+          <mxGeometry height="1304" width="150" x="1197" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-59" parent="nEas14TvrjvnTph_sTE4-30" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="1377.33" width="10" x="70" y="102.67" as="geometry" />
+        <mxCell id="U7UqpE9DLSidO46kA7eS-187" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=13;" value="СЛЕСАРЬ" vertex="1">
+          <mxGeometry height="1304" width="150" x="1410" y="20" as="geometry" />
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-31" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="Слесарь" vertex="1">
-          <mxGeometry height="1484" width="150" x="1928" y="297.33333333333326" as="geometry" />
-        </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-60" parent="nEas14TvrjvnTph_sTE4-31" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="330" width="10" x="70" y="720" as="geometry" />
-        </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-32" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" value="Склад" vertex="1">
-          <mxGeometry height="1484" width="150" x="2128" y="297.33333333333326" as="geometry" />
-        </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-61" parent="nEas14TvrjvnTph_sTE4-32" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
-          <mxGeometry height="737.33" width="10" x="70" y="532.67" as="geometry" />
-        </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-33" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-28" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="nEas14TvrjvnTph_sTE4-29" value="1. Запрос ремонта">
+        <mxCell id="U7UqpE9DLSidO46kA7eS-188" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-182" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-183" value="1. Записаться на ремонт (данные авто)">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1007" y="404.33333333333326" />
+              <mxPoint x="279" y="127" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-34" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-29" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="nEas14TvrjvnTph_sTE4-30" value="2. Создать заказ, оформить договор">
+        <mxCell id="U7UqpE9DLSidO46kA7eS-189" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-183" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-184" value="2. Уведомление: Новая заявка">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1463" y="456.33333333333326" />
+              <mxPoint x="639" y="179" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-35" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-29" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="nEas14TvrjvnTph_sTE4-30" value="3. Передать заказ на диагностику">
+        <mxCell id="U7UqpE9DLSidO46kA7eS-190" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-184" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-183" value="3. Подтвердить заявку">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1463" y="508.33333333333326" />
+              <mxPoint x="642" y="231" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-36" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-30" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=open;dashed=1;endFill=0;" target="nEas14TvrjvnTph_sTE4-28" value="4. Уточнить симптомы (при необходимости)">
-          <mxGeometry relative="1" x="-0.0002" as="geometry">
-            <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="1246" y="560.3333333333333" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-37" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-30" style="curved=1;endArrow=block;rounded=0;" target="nEas14TvrjvnTph_sTE4-30" value="5. Диагностика машины">
+        <mxCell id="U7UqpE9DLSidO46kA7eS-191" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-184" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-185" value="4. Назначить диагностику">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1741" y="612.3333333333333" />
-              <mxPoint x="1741" y="642.3333333333333" />
+              <mxPoint x="952" y="283" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-38" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-30" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="nEas14TvrjvnTph_sTE4-29" value="6. Результаты диагностики (работы, запчасти, стоимость)">
+        <mxCell id="U7UqpE9DLSidO46kA7eS-192" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-185" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-183" value="5. Загрузить результаты + фото">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1466" y="694.3333333333333" />
+              <mxPoint x="770" y="335" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-39" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-29" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="nEas14TvrjvnTph_sTE4-28" value="7. Предложение по ремонту (работы + цена)">
+        <mxCell id="U7UqpE9DLSidO46kA7eS-193" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-183" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-184" value="6. Уведомление: Диагностика завершена">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1010" y="746.3333333333333" />
+              <mxPoint x="639" y="387" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-40" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-28" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="nEas14TvrjvnTph_sTE4-29" value="8. Согласие на ремонт">
+        <mxCell id="U7UqpE9DLSidO46kA7eS-194" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-184" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-183" value="7. Сформировать смету">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1007" y="798.3333333333333" />
+              <mxPoint x="642" y="439" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-41" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-29" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="nEas14TvrjvnTph_sTE4-32" value="9. Заказать/списать запчасти и инструменты">
+        <mxCell id="U7UqpE9DLSidO46kA7eS-195" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-183" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-182" value="8. Отправить смету ">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1720" y="850.3333333333333" />
+              <mxPoint x="282" y="491" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-42" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-32" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="nEas14TvrjvnTph_sTE4-30" value="10. Выдать запчасти и инструменты">
+        <mxCell id="U7UqpE9DLSidO46kA7eS-196" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-182" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-183" value="9. Нажать &quot;Согласовать&quot;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1958" y="902.3333333333333" />
+              <mxPoint x="279" y="543" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-43" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-30" style="curved=1;endArrow=block;rounded=0;" target="nEas14TvrjvnTph_sTE4-30" value="11. Передать подготовленную машину">
+        <mxCell id="U7UqpE9DLSidO46kA7eS-197" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-183" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-184" value="10. Уведомление: Клиент согласовал">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1741" y="954.3333333333333" />
-              <mxPoint x="1741" y="984.3333333333333" />
+              <mxPoint x="639" y="595" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-44" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-30" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="nEas14TvrjvnTph_sTE4-31" value="12. Назначить слесарные работы">
+        <mxCell id="U7UqpE9DLSidO46kA7eS-198" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-184" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-183" value="11. Создать заказ на запчасти">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1855" y="1036.3333333333333" />
+              <mxPoint x="642" y="647" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-45" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-31" style="curved=1;endArrow=block;rounded=0;" target="nEas14TvrjvnTph_sTE4-31" value="13. Разборка узлов и агрегатов">
+        <mxCell id="U7UqpE9DLSidO46kA7eS-199" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-183" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-186" value="12. Уведомление: Заказ запчастей">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2054" y="1088.3333333333333" />
-              <mxPoint x="2054" y="1118.3333333333333" />
+              <mxPoint x="867" y="699" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-46" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-31" style="curved=1;endArrow=block;rounded=0;" target="nEas14TvrjvnTph_sTE4-31" value="14. Ремонт/замена деталей">
+        <mxCell id="U7UqpE9DLSidO46kA7eS-200" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-186" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-183" value="13. Подтвердить наличие">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2054" y="1170.3333333333333" />
-              <mxPoint x="2054" y="1200.3333333333333" />
+              <mxPoint x="870" y="751" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-47" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-31" style="curved=1;endArrow=block;rounded=0;" target="nEas14TvrjvnTph_sTE4-31" value="15. Сборка и установка">
+        <mxCell id="U7UqpE9DLSidO46kA7eS-201" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-186" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-187" value="14. Выдать запчасти">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2054" y="1252.3333333333333" />
-              <mxPoint x="2054" y="1282.3333333333333" />
+              <mxPoint x="1387" y="803" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-48" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-31" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="nEas14TvrjvnTph_sTE4-30" value="16. Сообщение о выполнении работ">
+        <mxCell id="U7UqpE9DLSidO46kA7eS-202" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-185" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-187" value="15. Передать задание">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1858" y="1334.3333333333333" />
+              <mxPoint x="1287" y="855" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-49" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-30" style="curved=1;endArrow=block;rounded=0;" target="nEas14TvrjvnTph_sTE4-30" value="17. Проверка качества">
+        <mxCell id="U7UqpE9DLSidO46kA7eS-203" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-187" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-183" value="16. Статус: В работе">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1741" y="1386.3333333333333" />
-              <mxPoint x="1741" y="1416.3333333333333" />
+              <mxPoint x="977" y="907" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-50" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-30" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="nEas14TvrjvnTph_sTE4-29" value="18. Сообщение: ремонт завершён">
+        <mxCell id="U7UqpE9DLSidO46kA7eS-204" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-187" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-183" value="17. Статус: Работы завершены">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1466" y="1468.3333333333333" />
+              <mxPoint x="977" y="959" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-51" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-29" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="nEas14TvrjvnTph_sTE4-32" value="19. Закрыть заказ, подготовить документы">
+        <mxCell id="U7UqpE9DLSidO46kA7eS-205" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-183" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-185" value="18. Уведомление: Требуется проверка">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1720" y="1520.3333333333333" />
+              <mxPoint x="767" y="1011" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-52" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-29" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="nEas14TvrjvnTph_sTE4-28" value="20. Уведомление: машина готова">
+        <mxCell id="U7UqpE9DLSidO46kA7eS-206" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-185" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-183" value="19. Контроль качества">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1010" y="1572.3333333333333" />
+              <mxPoint x="770" y="1063" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-53" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-28" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="nEas14TvrjvnTph_sTE4-29" value="21. Оплата, подпись документов">
-          <mxGeometry relative="1" x="0.0019" as="geometry">
-            <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="1007" y="1624.3333333333333" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nEas14TvrjvnTph_sTE4-54" edge="1" parent="1" source="nEas14TvrjvnTph_sTE4-29" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="nEas14TvrjvnTph_sTE4-28" value="22. Выдать отремонтированную машину и документы">
+        <mxCell id="U7UqpE9DLSidO46kA7eS-207" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-183" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-182" value="20. Уведомление: Машина готова">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1010" y="1676.3333333333333" />
+              <mxPoint x="282" y="1115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U7UqpE9DLSidO46kA7eS-208" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-184" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-182" value="21. Оплата и выдача авто">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="467" y="1167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U7UqpE9DLSidO46kA7eS-209" edge="1" parent="1" source="U7UqpE9DLSidO46kA7eS-184" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" target="U7UqpE9DLSidO46kA7eS-183" value="22. Закрыть заказ">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="642" y="1219" />
             </Array>
           </mxGeometry>
         </mxCell>
